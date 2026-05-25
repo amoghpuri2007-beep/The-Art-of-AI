@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "537985994826",
+    "project_id": "islapp-bfb14",
+    "storage_bucket": "islapp-bfb14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:537985994826:android:cf3f63e69e3a4672a396b3",
+        "android_client_info": {
+          "package_name": "com.example.speechtotext"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCu_SxoExYPf6W8vR85jjouxU2Ufmik-qg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
